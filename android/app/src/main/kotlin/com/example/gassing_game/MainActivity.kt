@@ -1,0 +1,6 @@
+package com.example.gassing_game
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
